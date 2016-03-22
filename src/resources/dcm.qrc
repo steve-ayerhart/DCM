@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource>
+    <file>qml/Application.qml</file>
+    <file>qml/CollectionPage.qml</file>
+    <file>qml/NewCollectionDialog.qml</file>
+  </qresource>
+</RCC>
